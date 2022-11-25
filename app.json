@@ -1,9 +1,9 @@
 {
-  "name": "Maverick",
-  "displayName": "Maverick",
+  "name": "Planner",
+  "displayName": "Planner",
   "expo": {
-    "name": "Maverick",
-    "slug": "Maverick",
+    "name": "Planner",
+    "slug": "Planner",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/app-icon-all.png",
@@ -19,7 +19,7 @@
     "assetBundlePatterns": ["**/*"],
     "android": {
       "icon": "./assets/images/app-icon-android-legacy.png",
-      "package": "com.maverick",
+      "package": "com.a_h.planner",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/app-icon-android-adaptive-foreground.png",
         "backgroundImage": "./assets/images/app-icon-android-adaptive-background.png"
@@ -33,7 +33,7 @@
     "ios": {
       "icon": "./assets/images/app-icon-ios.png",
       "supportsTablet": true,
-      "bundleIdentifier": "com.maverick",
+      "bundleIdentifier": "com.a_h.planner",
       "splash": {
         "image": "./assets/images/splash-logo-ios-mobile.png",
         "tabletImage": "./assets/images/splash-logo-ios-tablet.png",

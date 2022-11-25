@@ -1,4 +1,4 @@
-package com.maverick;
+package com.a_h.planner;
 
 import android.os.Bundle;
 
@@ -17,7 +17,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Maverick";
+    return "Planner";
   }
 
   /**
